@@ -1,0 +1,15 @@
+﻿
+@{ 
+    ViewBag.Title = "Главная страница";
+}
+
+<div class="card">
+    <div class="card-header">
+        <h1 class="card-title">Главная страница</h1>
+    </div>
+    <div class="card-body">
+        <div class="card-text">
+            Добро пожаловать @User.Identity.Name, вы авторизовались под ролью @Roles.GetRolesForUser(User.Identity.Name)[0].
+        </div>
+    </div>
+</div>

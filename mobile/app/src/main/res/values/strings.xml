@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Courier App WorldSkills</string>
+    <!-- Strings related to log_in -->
+    <string name="login">Логин</string>
+    <string name="password">Пароль</string>
+    <string name="signin">Войти</string>
+    <string name="signout">Выйти</string>
+    <string name="succses_login_in_application">Вы успешо авторизовались в приложении</string>
+    <string name="failure_login">Неудалось войти</string>
+    <string name="user_not_found">Пользователь не найден</string>
+    <string name="сourier">Курьер:&#8194;</string>
+    <string name="сourier_status">Статус курьера</string>
+    <string name="order">Заказ</string>
+    <string name="address">Адрес:&#8194;</string>
+    <string name="failure_server">Ошибка на сервере</string>
+    <string name="failure">Ошибка получения данных</string>
+    <string name="content">Содержимое:</string>
+    <string name="delivered">Сменить статус на \"Доставлен\"</string>
+    <string name="received">Сменить статус на \"Получен курьером\"</string>
+    <string name="succses">Успешно</string>
+    <string name="name">Название:&#8194;</string>
+    <string name="count">Количество:&#8194;</string>
+    <string name="sht">шт</string>
+
+    <string name="photo">Фотография</string>
+    <string name="barcode">Штрихкод</string>
+    <string name="date_recive">Дата получения заказа</string>
+    <string name="confirm_reciv">Подтвердить получение заказа</string>
+    <string name="chanel_added_product">Отменить добавление заказа</string>
+    <string name="error_processing_photo">Во время обработки возникла ошибка, переснять?</string>
+
+</resources>
